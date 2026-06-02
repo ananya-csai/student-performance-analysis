@@ -102,3 +102,15 @@ Performed independent sample t-tests to evaluate significance of observed differ
 - Deploy as a web dashboard
 
 ---
+
+## Distribution of Average Scores
+
+![Distribution](images/distribution_scores.png)
+
+## Gender Analysis
+
+![Gender](images/gender_analysis.png)
+
+## Correlation Matrix
+
+![Correlation](images/correlation_matrix.png)
