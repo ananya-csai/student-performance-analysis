@@ -83,15 +83,18 @@ Performed independent sample t-tests to evaluate significance of observed differ
 
 ### Distribution of Average Scores
 
-[Insert Image]
+[<img width="1128" height="720" alt="distribution_scores" src="https://github.com/user-attachments/assets/2b35ba64-50f8-4089-9dae-67c86ec40522" />
+]
 
 ### Gender Analysis
 
-[Insert Image]
+[<img width="983" height="694" alt="gender_analysis" src="https://github.com/user-attachments/assets/10d75ae9-ace2-4666-8c21-fb9a35adc925" />
+]
 
 ### Correlation Matrix
 
-[Insert Image]
+[<img width="842" height="587" alt="correlation_matrix" src="https://github.com/user-attachments/assets/e235501b-19cf-4458-bccc-b68fc8361911" />
+]
 
 ---
 
@@ -103,14 +106,3 @@ Performed independent sample t-tests to evaluate significance of observed differ
 
 ---
 
-## Distribution of Average Scores
-
-![Distribution](images/distribution_scores.png)
-
-## Gender Analysis
-
-![Gender](images/gender_analysis.png)
-
-## Correlation Matrix
-
-![Correlation](images/correlation_matrix.png)
